@@ -25,7 +25,7 @@
     "hdiutil": "0.0.6",
     "node-static": "*",
     "request": "*",
-    "serialport": "6.2.2",
+    "serialport": "7.0.1",
     "socket.io": "1.7.x",
     "ws": "^1.1.x"
   },
